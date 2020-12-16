@@ -3,4 +3,5 @@ Leishmania_Test_Dataset/
 Leishmania_Test_Dataset_CLAHE/
 Leishmania_Training_Dataset/
 Leishmania_Training_Dataset_CLAHE/
+.ipynb_checkpoints/
 *.h5
